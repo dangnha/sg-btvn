@@ -60,7 +60,7 @@ body {
 }
 .container__avatar__image img {
   border: 1px solid #000;
-  width: 25em;
+  width: 100%;
 }
 .container__avatar__title {
 }
